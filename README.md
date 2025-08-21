@@ -1,2 +1,3 @@
-# dd
-DD is an programming language designed to be the fastest, best.
+## DD ##
+
+Prototype version v1.0 beta released
